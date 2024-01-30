@@ -1,3 +1,14 @@
+"""
+    setup
+    ~~~~
+    SQLRaw is a simple extension for Python that allows us access to all
+    SQL commands as string capabilities with change it with format
+    function in Python.
+
+    :copyright: (c) 2024 by Shahriyar Tarnasi.
+    :license: MIT, see LICENSE for more details.
+"""
+
 from setuptools import setup, find_packages
 setup(
     name='SQLRaw',
